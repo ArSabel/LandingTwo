@@ -1149,7 +1149,15 @@ function detectLang() {
 let LANG = detectLang();
 function t(key) { return (TEXTS[LANG] && TEXTS[LANG][key]) || (TEXTS.es && TEXTS.es[key]) || key; }
 function buildCart(source) {
-  return "https://e0n3bi-gi.myshopify.com/products/pack-el-hombre-que-ella-desea?variant=48769939931392";
+  const src = source || "unknown";
+  const utmSuffix = "&decision_source=" + src;
+  if (LANG === 'en') {
+    return "https://e0n3bi-gi.myshopify.com/products/the-man-pack-complete-set?variant=48770092564736&discount=BIENVENIDA10&utm_source=landing_hp&utm_medium=organic&utm_campaign=pack_hombre&utm_content=pack_hombre_landing" + utmSuffix;
+  } else if (LANG === 'pt') {
+    return "https://e0n3bi-gi.myshopify.com/products/pack-o-homem-colecao-completa?variant=48775269449984&discount=BIENVENIDA10&utm_source=landing_hp&utm_medium=organic&utm_campaign=pack_hombre&utm_content=pack_hombre_landing" + utmSuffix;
+  } else {
+    return "https://e0n3bi-gi.myshopify.com/products/pack-el-hombre-que-ella-desea?variant=48769939931392&discount=BIENVENIDA10&utm_source=landing_hp&utm_medium=organic&utm_campaign=pack_hombre&utm_content=pack_hombre_landing" + utmSuffix;
+  }
 }
 function apply() {
   const meta = LANG_META[LANG] || LANG_META.es;
