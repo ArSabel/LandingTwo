@@ -9,7 +9,7 @@ const POLICY_TEXTS = {
       <h3>Garantía de satisfacción de 7 días</h3>
       <p>Si después de leer tu libro sientes que no es para ti, escríbenos dentro de los primeros 7 días calendario a partir de la compra y procesaremos un reembolso del 100% de lo pagado, sin preguntas extrañas. Solo te pedimos que nos cuentes brevemente qué esperabas y no encontraste — esta información nos ayuda a mejorar.</p>
       <h3>Cómo solicitar un reembolso</h3>
-      <p>Escríbenos por WhatsApp al +593 96 847 3255 o por correo electrónico a edwardsmurillo@hotmail.com.</p>
+      <p>Escríbenos por WhatsApp al <a href="https://wa.me/593968473255" target="_blank" rel="noopener noreferrer">+593 96 847 3255</a> o por correo electrónico a <a href="mailto:edwardsmurillo@hotmail.com">edwardsmurillo@hotmail.com</a>.</p>
       <ul>
         <li>Incluye el correo electrónico con el cual realizaste la compra y el título del libro.</li>
         <li>El reembolso será procesado al método de pago original en un plazo de 5 a 10 días hábiles, dependiendo de tu banco o pasarela de pago.</li>
@@ -21,7 +21,7 @@ const POLICY_TEXTS = {
         <li>Reclamaciones por insatisfacción con el tono o enfoque del contenido si el cliente ya ha consumido más del 80% del material.</li>
       </ul>
       <h3>Contacto</h3>
-      <p>Para cualquier duda sobre esta política, escríbenos por WhatsApp al +593 96 847 3255 o por correo a edwardsmurillo@hotmail.com. Respondemos en horario comercial GMT-5 (Ecuador).</p>
+      <p>Para cualquier duda sobre esta política, escríbenos por WhatsApp al <a href="https://wa.me/593968473255" target="_blank" rel="noopener noreferrer">+593 96 847 3255</a> o por correo a <a href="mailto:edwardsmurillo@hotmail.com">edwardsmurillo@hotmail.com</a>. Respondemos en horario comercial GMT-5 (Ecuador).</p>
       <p>Esta política se rige por las leyes de la República del Ecuador y respeta la Ley Orgánica de Defensa del Consumidor.</p>
     `,
     terms_title: "Términos y condiciones",
@@ -45,7 +45,7 @@ const POLICY_TEXTS = {
       <h3>9. Ley Aplicable</h3>
       <p>Estos términos se rigen por las leyes de la República del Ecuador.</p>
       <h3>10. Contacto</h3>
-      <p>WhatsApp: +593 96 847 3255<br>Correo electrónico: edwardsmurillo@hotmail.com</p>
+      <p>WhatsApp: <a href="https://wa.me/593968473255" target="_blank" rel="noopener noreferrer">+593 96 847 3255</a><br>Correo electrónico: <a href="mailto:edwardsmurillo@hotmail.com">edwardsmurillo@hotmail.com</a></p>
     `,
     privacy_title: "Política de privacidad",
     privacy_body: `
@@ -67,7 +67,7 @@ const POLICY_TEXTS = {
       <h3>7-day satisfaction guarantee</h3>
       <p>If after reading your book you feel it is not for you, write to us within the first 7 calendar days from the purchase and we will process a 100% refund of the amount paid, no weird questions asked. We only ask that you briefly tell us what you expected and didn't find — this information helps us improve.</p>
       <h3>How to request a refund</h3>
-      <p>Write to us on WhatsApp at +593 96 847 3255 or by email at edwardsmurillo@hotmail.com.</p>
+      <p>Write to us on WhatsApp at <a href="https://wa.me/593968473255" target="_blank" rel="noopener noreferrer">+593 96 847 3255</a> or by email at <a href="mailto:edwardsmurillo@hotmail.com">edwardsmurillo@hotmail.com</a>.</p>
       <ul>
         <li>Include the email with which you made the purchase and the title of the book.</li>
         <li>The refund will be processed to the original payment method within 5 to 10 business days, depending on your bank or payment gateway.</li>
@@ -79,7 +79,7 @@ const POLICY_TEXTS = {
         <li>Claims due to dissatisfaction with the tone or focus of the content if the client has already consumed more than 80% of the material.</li>
       </ul>
       <h3>Contact</h3>
-      <p>For any questions regarding this policy, write to us on WhatsApp at +593 96 847 3255 or by email at edwardsmurillo@hotmail.com. We reply during business hours GMT-5 (Ecuador).</p>
+      <p>For any questions regarding this policy, write to us on WhatsApp at <a href="https://wa.me/593968473255" target="_blank" rel="noopener noreferrer">+593 96 847 3255</a> or by email at <a href="mailto:edwardsmurillo@hotmail.com">edwardsmurillo@hotmail.com</a>. We reply during business hours GMT-5 (Ecuador).</p>
       <p>This policy is governed by the laws of the Republic of Ecuador and complies with the Organic Law for the Defense of the Consumer.</p>
     `,
     terms_title: "Terms and Conditions",
@@ -103,7 +103,7 @@ const POLICY_TEXTS = {
       <h3>9. Applicable Law</h3>
       <p>These terms are governed by the laws of the Republic of Ecuador.</p>
       <h3>10. Contact</h3>
-      <p>WhatsApp: +593 96 847 3255<br>Email: edwardsmurillo@hotmail.com</p>
+      <p>WhatsApp: <a href="https://wa.me/593968473255" target="_blank" rel="noopener noreferrer">+593 96 847 3255</a><br>Email: <a href="mailto:edwardsmurillo@hotmail.com">edwardsmurillo@hotmail.com</a></p>
     `,
     privacy_title: "Privacy Policy",
     privacy_body: `
@@ -125,7 +125,7 @@ const POLICY_TEXTS = {
       <h3>Garantia de satisfação de 7 dias</h3>
       <p>Se depois de ler seu livro você sentir que ele não é para você, escreva para nós nos primeiros 7 dias corridos a partir da compra e processaremos o reembolso de 100% do valor pago, sem perguntas estranhas. Só pedimos que nos conte brevemente o que você esperava e não encontrou — essa informação nos ajuda a melhorar.</p>
       <h3>Como solicitar um reembolso</h3>
-      <p>Escreva para nós pelo WhatsApp no +593 96 847 3255 ou por e-mail em edwardsmurillo@hotmail.com.</p>
+      <p>Escreva para nós pelo WhatsApp no <a href="https://wa.me/593968473255" target="_blank" rel="noopener noreferrer">+593 96 847 3255</a> ou por e-mail em <a href="mailto:edwardsmurillo@hotmail.com">edwardsmurillo@hotmail.com</a>.</p>
       <ul>
         <li>Inclua o e-mail com o qual realizou a compra e o título do livro.</li>
         <li>O reembolso será processado no método de pagamento original em um prazo de 5 a 10 dias úteis, dependendo do seu banco ou intermediador de pagamento.</li>
@@ -137,7 +137,7 @@ const POLICY_TEXTS = {
         <li>Reclamações por insatisfação com o tom ou abordagem do conteúdo caso o cliente já tenha consumido mais de 80% do material.</li>
       </ul>
       <h3>Contato</h3>
-      <p>Para qualquer dúvida sobre esta política, escreva para nós pelo WhatsApp +593 96 847 3255 ou por e-mail em edwardsmurillo@hotmail.com. Respondemos em horário comercial GMT-5 (Equador).</p>
+      <p>Para qualquer dúvida sobre esta política, escreva para nós pelo WhatsApp <a href="https://wa.me/593968473255" target="_blank" rel="noopener noreferrer">+593 96 847 3255</a> ou por e-mail em <a href="mailto:edwardsmurillo@hotmail.com">edwardsmurillo@hotmail.com</a>. Respondemos em horário comercial GMT-5 (Equador).</p>
       <p>Esta política é regida pelas leis da República do Equador e respeita a Lei Orgânica de Defesa do Consumidor.</p>
     `,
     terms_title: "Termos e condições",
@@ -161,7 +161,7 @@ const POLICY_TEXTS = {
       <h3>9. Lei Aplicável</h3>
       <p>Estes termos são regidos pelas leis da República do Equador.</p>
       <h3>10. Contato</h3>
-      <p>WhatsApp: +593 96 847 3255<br>E-mail: edwardsmurillo@hotmail.com</p>
+      <p>WhatsApp: <a href="https://wa.me/593968473255" target="_blank" rel="noopener noreferrer">+593 96 847 3255</a><br>E-mail: <a href="mailto:edwardsmurillo@hotmail.com">edwardsmurillo@hotmail.com</a></p>
     `,
     privacy_title: "Política de privacidade",
     privacy_body: `
