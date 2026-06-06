@@ -1149,8 +1149,7 @@ function detectLang() {
 let LANG = detectLang();
 function t(key) { return (TEXTS[LANG] && TEXTS[LANG][key]) || (TEXTS.es && TEXTS.es[key]) || key; }
 function buildCart(source) {
-  const src = source || "unknown";
-  return `${SHOP_CART}${VARIANT_HP}:1?discount=BIENVENIDA10${UTM.replace("?","&")}decision_${src}`;
+  return "https://e0n3bi-gi.myshopify.com/products/pack-el-hombre-que-ella-desea?variant=48769939931392";
 }
 function apply() {
   const meta = LANG_META[LANG] || LANG_META.es;
